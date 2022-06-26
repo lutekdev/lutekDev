@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lutekdev/6c5b06bd56d0688df7a37bc2bc2a87ca/raw/f3bcbefaa762fb010abe091b030246c8112cb408/githubcard.svg"/>
 <h1 align="left"> Hello, Developer's <img src="https://c.tenor.com/jjkJrU3wy3kAAAAj/anime-small.gif" alt="drawing" width="45"/> </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=blue" alt="View's Perfil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=blue" alt="Profile views" /> </p>
 
 <h1> <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"> LutekDev <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"></h1>
 - 🔥 Programador e Instrutor Web Developer & Back-End focado em ajudar as pessoas a começar a programar!
@@ -16,7 +16,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Cantin do Conhecimento
+## 🛠 &nbsp;Cantin do Conhecimento <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/steve.gif" alt="drawing" width="65">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -37,7 +37,7 @@
 
 <br><br>
 
-## 🔮 &nbsp;Redes Sociais Links
+## 🔮 &nbsp;Redes Sociais Links <img src="https://cdn.dribbble.com/users/2420234/screenshots/5967942/dehill-spacelove-1-dribble.gif" alt="drawing" width="65">
 
 <p align="left" style="background:yellow">
 <!-- <a href="https://codepen.io/lutekdev" target="_blank">

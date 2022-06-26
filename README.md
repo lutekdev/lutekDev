@@ -7,7 +7,7 @@
 
 - 📤 Focado em ajudar as pessoas a começar a programar!
 
-- 🔭 Atualmente estou trabalhando na PocketMine-MP (https://github.com/pmmp/PocketMine-MP)
+- 🔭 Atualmente estou trabalhando na **PocketMine-MP** (https://github.com/pmmp/PocketMine-MP)
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, PHP, Node.JS, C, C++**
 

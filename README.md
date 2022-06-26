@@ -9,9 +9,9 @@
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, PHP, Node.JS, C, C++**
 
-- ☕ Não é falta de cafe, nem tequila. é meu código que não copila.
-
 - ⚡ Fato engraçado **Lutekin 😜**
+
+- ☕ Não é falta de cafe, nem tequila. é meu código que não copila.
 
 <img src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-size_restricted.gif" heigth="2px">
 <!--

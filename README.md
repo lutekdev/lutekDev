@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=blue" alt="Profile views" /> </p>
 
 <h1> <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"> LutekDev <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"></h1>
-- 🔥 Programador e Instrutor Web Developer & Back-End focado em ajudar as pessoas a começar a programar!
+
+- 📤 Focado em ajudar as pessoas a começar a programar!
 
 - 🔭 Atualmente estou trabalhando na PocketMine-MP (https://github.com/pmmp/PocketMine-MP)
 

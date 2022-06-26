@@ -16,7 +16,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Cantin do Conhecimento <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/steve.gif" alt="drawing" width="65">
+## 🛠 &nbsp;Conhecimentos <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/steve.gif" alt="drawing" width="65">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -37,7 +37,7 @@
 
 <br><br>
 
-## 🔮 &nbsp;Redes Sociais Links <img src="https://cdn.dribbble.com/users/2420234/screenshots/5967942/dehill-spacelove-1-dribble.gif" alt="drawing" width="65">
+## 🔮 &nbsp;Redes Sociais Links
 
 <p align="left" style="background:yellow">
 <!-- <a href="https://codepen.io/lutekdev" target="_blank">

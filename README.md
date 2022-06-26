@@ -15,7 +15,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Cantin do Conhecimento
+## 🛠 &nbsp;Cantin do Conhecimento <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/catJAM.gif" alt="drawing" width="65">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -27,7 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=HTML5)&nbsp;
 
-## ⚙️ &nbsp;Análise GitHub 
+## ⚙️ &nbsp;Análise GitHub  <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft-parrot.gif" alt="drawing" width="65">
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lutekdev&show_icons=true&theme=vision-friendly-dark" alt="lutekdev's stats"/>

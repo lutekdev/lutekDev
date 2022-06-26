@@ -7,15 +7,12 @@
 
 - 🔭 Atualmente estou trabalhando na PocketMine-MP (https://github.com/pmmp/PocketMine-MP)
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, PHP, Node.JS, C, C++**
 
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ☕ Não é falta de cafe, nem tequila. é meu código que não copila.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- ⚡ Fato engraçado **Lutekin 😜**
 
-- Não é falta de cafe, nem tequila. é meu código que não copila.
-
-- ⚡ Fun fact **Oneye 😜**
 <img src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-size_restricted.gif" heigth="2px">
 <!--
 **lutekdev/lutekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

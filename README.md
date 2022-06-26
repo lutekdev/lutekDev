@@ -36,23 +36,23 @@
 
 <br><br>
 
-## 🌚🏽‍🦲 &nbsp;Redes Sociais Links
+## 🔮 &nbsp;Redes Sociais Links
 
 <p align="left" style="background:yellow">
 <!-- <a href="https://codepen.io/lutekdev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a> -->
 <a href="https://twitter.com/lutekdev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-lutekdev-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <!-- <a href="https://linkedin.com/in/lutekdev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a> -->
 <a href="https://instagram.com/lutekdev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-lutekdev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://youtube.com/lutekdev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-lutekdev-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 

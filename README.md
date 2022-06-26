@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
+- Não é falta de cafe, nem tequila. é meu código que não copila.
+
 - ⚡ Fun fact **Oneye 😜**
 <img src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-size_restricted.gif" heigth="2px">
 <!--

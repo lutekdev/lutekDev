@@ -10,13 +10,17 @@
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, PHP, Node.JS, C, C++**
 
+- 🌱 I’m currently learning ...
+
+- 😄 Pronomes: Ele/Dele
+ 
 - ⚡ Fato engraçado **Lutekin 😜**
 
 - ☕ Não é falta de cafe, nem tequila. é meu código que não copila.
 
 <br><br>
 
-## 🛠 &nbsp;Conhecimentos <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/steve.gif" alt="drawing" width="65">
+## 🛠 &nbsp;Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;

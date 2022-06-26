@@ -10,7 +10,7 @@
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, PHP, Node.JS, C, C++**
 
-- 🌱 I’m currently learning ...
+- 🌱 Atualmente estou aprendendo...
 
 - 😄 Pronomes: Ele/Dele
  

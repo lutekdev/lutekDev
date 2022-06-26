@@ -1,6 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lutekdev/6c5b06bd56d0688df7a37bc2bc2a87ca/raw/f3bcbefaa762fb010abe091b030246c8112cb408/githubcard.svg"/>
-<h1 align="left">  Hello, I'm LutekDev 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<h1> <img src="https://phoneky.co.uk/thumbs/screensavers/down/anime/naruto_i758k6zm.gif" alt="drawing" width="500"/> </h1>
+<h1 align="left">  Hello, I'm LutekDev <img src="https://c.tenor.com/jjkJrU3wy3kAAAAj/anime-small.gif" alt="drawing" width="100"/> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=yellow" alt="Profile views" /> </p>
 <img src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-size_restricted.gif" heigth="2px">
 <!--
 **lutekdev/lutekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lutekdev/6c5b06bd56d0688df7a37bc2bc2a87ca/raw/f3bcbefaa762fb010abe091b030246c8112cb408/githubcard.svg"/>
-<h1 align="left"> Hello, I'm LutekDev <img src="https://c.tenor.com/jjkJrU3wy3kAAAAj/anime-small.gif" alt="drawing" width="45"/> </h1>
+<h1 align="left"> <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="65"> Hello, I'm LutekDev <img src="https://c.tenor.com/jjkJrU3wy3kAAAAj/anime-small.gif" alt="drawing" width="45"/> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Programador e Instrutor Web Developer & Back-End focado em ajudar as pessoas a começar a programar!
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=HTML5)&nbsp;
 
-## ⚙️ &nbsp;Análise GitHub  <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft-parrot.gif" alt="drawing" width="65">
+## ⚙️ &nbsp;Análise GitHub <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft-parrot.gif" alt="drawing" width="65">
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lutekdev&show_icons=true&theme=vision-friendly-dark" alt="lutekdev's stats"/>

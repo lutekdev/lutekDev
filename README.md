@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lutekdev/e4e9825b3421c1f23874e00fc0d147d5/raw/e54680be4f4ad46a8d68e4304c61f3d53a322559/LutekCard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lutekdev/0569c33d67794666682cc3e1cd1731c6/raw/33fe3ac7108a8ea32d8e769d1015b0564521744c/LutekCard.svg"/>
 <h1 align="left"> Hello, Developer's <img src="https://c.tenor.com/jjkJrU3wy3kAAAAj/anime-small.gif" alt="drawing" width="45"/> </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=blue" alt="Profile views" /> </p>

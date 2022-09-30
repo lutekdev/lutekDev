@@ -2,6 +2,8 @@
 <h1 align="left"> Hello, Developer's <img src="https://c.tenor.com/jjkJrU3wy3kAAAAj/anime-small.gif" alt="drawing" width="45"/> </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=blue" alt="Profile views" /> </p>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+
 
 <h1> <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"> LutekDev <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"></h1>
 

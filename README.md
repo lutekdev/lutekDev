@@ -1,7 +1,10 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lutekdev/0569c33d67794666682cc3e1cd1731c6/raw/33fe3ac7108a8ea32d8e769d1015b0564521744c/LutekCard.svg"/>
 <h1 align="left"> Hello, Developer's <img src="https://c.tenor.com/jjkJrU3wy3kAAAAj/anime-small.gif" alt="drawing" width="45"/> </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=blue" alt="Profile views" /> [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNFzQu7Gy7) </p>
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=blue" alt="Profile views" /> </p>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNFzQu7Gy7)
+</div>
 
 <h1> <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"> LutekDev <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"></h1>
 

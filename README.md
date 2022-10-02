@@ -9,15 +9,6 @@
 
 - 📤 Focado em ajudar as pessoas a começar a programar!
 
-## 🎓 &nbsp;Cursando Atualmente;
-- 🎓 Cursando **Ciências da Computação**;
-- 🇺🇸 Cursando **English**;
-- 🤖 Cursando **Automação**;
-
-- 💼 Atualmente estou trabalhando no meu **Fórum**;
-- 🔭 Atualmente estou trabalhando na **PocketMine-MP** (https://github.com/pmmp/PocketMine-MP);
-- 🌑 Atualmente estou trabalhando na **Rede Nexus Brasil** (https://discord.gg/JNFzQu7Gy7);
-
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, PHP, Node.JS, C, C++**
 
 - 🌱 Atualmente estou aprendendo...
@@ -28,6 +19,15 @@
 
 - ☕ Não é falta de cafe, nem tequila. é meu código que não copila.
 
+## 🎓 &nbsp;Cursando Atualmente;
+- 🎓 Cursando **Ciências da Computação**;
+- 🇺🇸 Cursando **English**;
+- 🤖 Cursando **Automação**;
+
+## 💼 &nbsp;Projetos Atuais;
+- 💼 Atualmente estou trabalhando no meu **Fórum**;
+- 🔭 Atualmente estou trabalhando na **PocketMine-MP** (https://github.com/pmmp/PocketMine-MP);
+- 🌑 Atualmente estou trabalhando na **Rede Nexus Brasil** (https://discord.gg/JNFzQu7Gy7);
 <br><br>
 
 ## 🛠 &nbsp;Conhecimentos

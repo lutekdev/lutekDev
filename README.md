@@ -9,6 +9,7 @@
 
 - 📤 Focado em ajudar as pessoas a começar a programar!
 
+## 🎓 &nbsp;Cursando Atualmente;
 - 🎓 Cursando **Ciências da Computação**;
 - 🇺🇸 Cursando **English**;
 - 🤖 Cursando **Automação**;

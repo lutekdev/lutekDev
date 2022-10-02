@@ -9,8 +9,9 @@
 
 - 📤 Focado em ajudar as pessoas a começar a programar!
 
-- 🔭 Atualmente estou trabalhando na **PocketMine-MP** (https://github.com/pmmp/PocketMine-MP)
-- 🌑 Atualmente estou trabalhando na **Nexus Network** (https://discord.gg/JNFzQu7Gy7)
+- 💼 Atualmente estou trabalhando no meu **Fórum**;
+- 🔭 Atualmente estou trabalhando na **PocketMine-MP** (https://github.com/pmmp/PocketMine-MP);
+- 🌑 Atualmente estou trabalhando na **Nexus Network** (https://discord.gg/JNFzQu7Gy7);
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, PHP, Node.JS, C, C++**
 

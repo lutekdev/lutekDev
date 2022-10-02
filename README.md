@@ -28,7 +28,6 @@
 - 💼 Atualmente estou trabalhando no meu **Fórum**;
 - 🔭 Atualmente estou trabalhando na **PocketMine-MP** (https://github.com/pmmp/PocketMine-MP);
 - 🌑 Atualmente estou trabalhando na **Rede Nexus Brasil** (https://discord.gg/JNFzQu7Gy7);
-<br><br>
 
 ## 🛠 &nbsp;Conhecimentos
 

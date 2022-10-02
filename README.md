@@ -13,7 +13,7 @@
 
 - 🌱 Atualmente estou aprendendo...
 
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: **Ele/Dele**
  
 - ⚡ Fato engraçado **Lutekin 😜**
 

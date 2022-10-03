@@ -22,7 +22,7 @@
 ## 🎓 &nbsp;Cursando Atualmente;
 - 🎓 Cursando **Ciências da Computação**;
 - 💵 Cursando **Administração**;
-- 🧑‍⚖ Conhecendo sobre **Direito**;
+- ⚖ Conhecendo sobre **Direito**;
 - 🇺🇸 Cursando **English**;
 - 🤖 Cursando **Automação**;
 - 💻 Criações de Plugins **Java/MCPE**;

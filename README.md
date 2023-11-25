@@ -21,14 +21,14 @@
 
 ## 🎓 &nbsp;Cursando Atualmente;
 - 🎓 Cursando **Ciências da Computação**;
-- 💵 Cursando **Administração**;
-- ⚖ Conhecendo sobre **Direito**;
+- 💵 Polímato **Administração**;
+- ⚖ Polímato sobre **Direito**;
 - 🇺🇸 Cursando **English**;
-- 🤖 Cursando **Automação**;
+- 🤖 Polímato **Automação**;
 - 💻 Criações de Plugins **Java/MCPE**;
 
 ## 💼 &nbsp;Projetos Atuais;
-- 💼 Atualmente estou trabalhando no meu **Fórum**;
+- 💼 Atualmente estou trabalhando na Empresa  **ANDRITZ Fabrics and Rolls**;
 - 🔭 Atualmente estou trabalhando na **PocketMine-MP** (https://github.com/pmmp/PocketMine-MP);
 - 🌑 Atualmente estou trabalhando na **Comunidade LutekDev** (https://discord.gg/JNFzQu7Gy7);
 - 📡 Atualmente estou trabalhando e conhecendo sobre **Telecomunicações / Internet**;

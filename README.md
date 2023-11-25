@@ -9,7 +9,7 @@
 
 - 📤 Focado em ajudar as pessoas a começar a programar!
 
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, PHP, Node.JS, C, C++**
+- 💬 Se eu não souber aprendo, disposto a aprender um pouco de tudo...
 
 - 🌱 Atualmente estou aprendendo...
 

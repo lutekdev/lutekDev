@@ -31,7 +31,7 @@
 - 🌑 Atualmente estou trabalhando na **Comunidade LutekDev** (https://discord.gg/JNFzQu7Gy7);
 - 📡 Atualmente estou trabalhando e conhecendo sobre **Telecomunicações / Internet**;
 
-## 🛠 &nbsp;Conhecimentos
+## 🛠 &nbsp;Conhecimentos Básicos ao Intermediário
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;

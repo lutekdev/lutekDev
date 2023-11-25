@@ -9,9 +9,7 @@
 
 - 📤 Focado em ajudar as pessoas a começar a programar!
 
-- 💬 Se eu não souber aprendo, disposto a aprender um pouco de tudo...
-
-- 🌱 Atualmente estou aprendendo...
+- 🌱 Se eu não souber aprendo, disposto a aprender um pouco de tudo...
 
 - 😄 Pronomes: **Ele/Dele**
  

@@ -11,6 +11,7 @@
 
 - 🌱 Se eu não souber aprendo, disposto a aprender um pouco de tudo...
 
+- 🐱‍💻 Apenas um Polímato no Mundo Atual.
 - 😄 Pronomes: **Ele/Dele**
  
 - ⚡ Fato engraçado **Lutekin 😜**
@@ -19,7 +20,7 @@
 
 ## 🎓 &nbsp;Cursando Atualmente;
 - 🎓 Cursando **Ciências da Computação**;
-- 💵 Polímato **Administração**;
+- 💵  **Administração**;
 - ⚖ Polímato sobre **Direito**;
 - 🇺🇸 Cursando **English**;
 - 🤖 Polímato **Automação**;

@@ -12,6 +12,7 @@
 - 🌱 Se eu não souber aprendo, disposto a aprender um pouco de tudo...
 
 - 🐱‍💻 Apenas um Polímato no Mundo Atual.
+
 - 😄 Pronomes: **Ele/Dele**
  
 - ⚡ Fato engraçado **Lutekin 😜**
@@ -19,12 +20,12 @@
 - ☕ Não é falta de cafe, nem tequila. é meu código que não copila.
 
 ## 🎓 &nbsp;Cursando Atualmente;
-- 🎓 Cursando **Ciências da Computação**;
+- 🎓 Cursando Bacharel de **Ciências da Computação**;
 - 💵  **Administração**;
-- ⚖ Polímato sobre **Direito**;
+- ⚖ Aprendendo sobre **Direito**;
 - 🇺🇸 Cursando **English**;
-- 🤖 Polímato **Automação**;
-- 💻 Criações de Plugins **Java/MCPE**;
+- 🤖 Estagiando em **Automação**;
+- 💻 Criador de Plugins **Java/MCPE**;
 
 ## 💼 &nbsp;Projetos Atuais;
 - 💼 Atualmente estou trabalhando na Empresa  **ANDRITZ Fabrics and Rolls**;

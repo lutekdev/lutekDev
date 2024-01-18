@@ -21,7 +21,7 @@
 
 ## 🎓 &nbsp;Cursando Atualmente;
 - 🎓 Cursando Bacharel de **Ciências da Computação**;
-- 💵  **Administração**;
+- 💵 Aprendendo sobre **Administração**;
 - ⚖ Aprendendo sobre **Direito**;
 - 🇺🇸 Cursando **English**;
 - 🤖 Estagiando em **Automação**;

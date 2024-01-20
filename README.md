@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutekdev&color=blue" alt="Profile views" /> </p>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNFzQu7Gy7)
+[![Discord](https:\img.shields.io\badge\Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https:\discord.gg\c5507ed6-2785-48ea-aa76-58d7517638b2)
 
 <h1> <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"> LutekDev <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft.gif" alt="drawing" width="45"></h1>
 
@@ -35,15 +35,15 @@
 
 ## 🛠 &nbsp;Conhecimentos Básicos ao Intermediário
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=HTML5)&nbsp;
+![JavaScript](https:\img.shields.io\badge\032092fe-204a-4297-b7b7-55ca457198b6)&nbsp;
+![Node.js](https:\img.shields.io\badge\1d603052-6d1e-4676-90b9-0d5d5452cae3.js)&nbsp;
+![HTML](https:\img.shields.io\badge\b42dcddc-0a18-477a-b71a-9cca9885b639)&nbsp;
+![CSS](https:\img.shields.io\badge\a90c3d8b-ce07-4869-bd13-9fc8f8bb35ba)&nbsp;
+![Git](https:\img.shields.io\badge\136e10e0-0d02-469d-ac15-0f1a64b53a2c)&nbsp;
+![GitHub](https:\img.shields.io\badge\c19f2bd5-1faa-47aa-be42-337b96fc5292)&nbsp;
+![Markdown](https:\img.shields.io\badge\2ab0c5d8-b75c-4fa5-b76a-42aadc895cbe)&nbsp;
+![Visual Studio Code](https:\img.shields.io\badge\3d622628-60f1-4657-a615-2cfc14ee6616)&nbsp;
+![PHP](https:\img.shields.io\badge\61fd1292-0fb7-433e-9dd9-3351303c15e3)&nbsp;
 
 ## ⚙️ &nbsp;Análise GitHub <img src="https://github.com/ppaalo/ppaalo/raw/main/assets/minecraft-parrot.gif" alt="drawing" width="65">
 
